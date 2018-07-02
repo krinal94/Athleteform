@@ -4,8 +4,6 @@ Athlete Profile Input Form
 Overview
 In this task you'll be creating and deploying a simple, full-stack, single-page application in Node and Angular 1.
 
-If you have any questions email me at ishveen@opensponsorship.com. 
-Requirements
 I would like you to create a multi-step or multi-screen athlete profile form that gathers standard demographic, sports and event data. Here is a list of data points and sports you might want to use:
 
 Data Points
