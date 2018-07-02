@@ -1,0 +1,22 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "athlete form",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0",
+    "mongoose": "*",
+    "morgan": "^1.9.0"
+  },
+  "author": "Krinal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
